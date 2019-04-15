@@ -1,0 +1,14 @@
+{
+  "authors" :
+  [
+    {
+      "name" : "David Nagy",
+      "email" : "dnagy@mail.greenriver.edu"
+    }
+
+  ],
+  "require" :
+  {
+    "bcosca/fatfree-core" : "dev-master"
+  }
+}
